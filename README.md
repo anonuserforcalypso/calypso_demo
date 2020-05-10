@@ -54,4 +54,17 @@ When the browser connects to the webapp the first time, it does set up the follo
 
 Once this is done, it allows you to check what is happening and to create groups and files yourself.
 
+## Example Workflow
+
+-Create a test file from user1 and share it with group_1_2
+-Lookup from user2 all the files that user1 controls
+	-Try to donwload your test file
+	-Success
+-Lookup from user3 all the files thatuser1 controls
+	-Try to donwload your test file
+	-Denied
+-From user1 check the details of the new file
+	-User2 accessed succesfully, user3 tried and failed
+
+
 ## 
