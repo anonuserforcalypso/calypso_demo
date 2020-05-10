@@ -54,8 +54,4 @@ When the browser connects to the webapp the first time, it does set up the follo
 
 Once this is done, it allows you to check what is happening and to create groups and files yourself.
 
-# What you can do with it
-
-Here is a short walkthrough of the things you can do with this demo.
-
 ## 
